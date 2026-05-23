@@ -32,34 +32,19 @@ export function Header() {
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex flex-nowrap items-center gap-x-4 lg:gap-x-6 text-[13px] font-medium tracking-tight text-zinc-400">
-          <a
-            className="hover:text-zinc-100 transition-colors duration-200"
-            href="#experience"
-          >
+          <a className="hover:text-zinc-100 transition-colors duration-200" href="#experience">
             Experience
           </a>
-          <a
-            className="hover:text-zinc-100 transition-colors duration-200"
-            href="#achievements"
-          >
+          <a className="hover:text-zinc-100 transition-colors duration-200" href="#achievements">
             Achievements
           </a>
-          <a
-            className="hover:text-zinc-100 transition-colors duration-200"
-            href="#projects"
-          >
+          <a className="hover:text-zinc-100 transition-colors duration-200" href="#projects">
             Projects
           </a>
-          <a
-            className="hover:text-zinc-100 transition-colors duration-200"
-            href="#education"
-          >
+          <a className="hover:text-zinc-100 transition-colors duration-200" href="#education">
             Education &amp; Skills
           </a>
-          <a
-            className="hover:text-zinc-100 transition-colors duration-200"
-            href="#contact"
-          >
+          <a className="hover:text-zinc-100 transition-colors duration-200" href="#contact">
             Connect
           </a>
         </nav>
