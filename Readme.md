@@ -2,7 +2,7 @@
 
 Personal portfolio website built with React, TypeScript, Vite, Tailwind CSS, and Framer Motion.
 
-Live: https://yashchauhan-2303.vercel.app
+Live: https://yashchauhan.site
 
 ## Tech Stack
 
