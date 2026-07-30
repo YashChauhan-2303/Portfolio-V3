@@ -25,28 +25,28 @@ export const portfolioData: PortfolioData = {
   },
 
   experience: [
-  {
-    role: "Freelance Web Developer",
-    org: "AarVee International",
-    period: "Jul 2026 — Aug 2026",
-    detail:
-      "Designed and developed a modern catalogue website for an industrial sewing machine spare parts business using Next.js, React, TypeScript, and Tailwind CSS. Built advanced product search, category navigation, responsive interfaces, and integrated a WhatsApp enquiry workflow to streamline customer interactions.",
-  },
-  {
-    role: "LoopMIT Team Member",
-    org: "MIT Manipal",
-    period: "Aug 2024 — Mar 2025",
-    detail:
-      "Developed software modules for real-time monitoring and control of an autonomous Hyperloop pod. Worked with live telemetry streams, sensor visualization, and safety-critical alert systems for operational monitoring.",
-  },
-  {
-    role: "Open Source Contributor",
-    org: "Social (Formerly Script Foundation)",
-    period: "Jun 2025 — Aug 2025",
-    detail:
-      "Contributed features, bug fixes, and documentation improvements across collaborative open-source projects while participating in review-driven development workflows.",
-  },
-],
+    {
+      role: "Freelance Web Developer",
+      org: "AarVee International",
+      period: "Jul 2026 — Aug 2026",
+      detail:
+        "Designed and developed a modern catalogue website for an industrial sewing machine spare parts business using Next.js, React, TypeScript, and Tailwind CSS. Built advanced product search, category navigation, responsive interfaces, and integrated a WhatsApp enquiry workflow to streamline customer interactions.",
+    },
+    {
+      role: "LoopMIT Team Member",
+      org: "MIT Manipal",
+      period: "Aug 2024 — Mar 2025",
+      detail:
+        "Developed software modules for real-time monitoring and control of an autonomous Hyperloop pod. Worked with live telemetry streams, sensor visualization, and safety-critical alert systems for operational monitoring.",
+    },
+    {
+      role: "Open Source Contributor",
+      org: "Social (Formerly Script Foundation)",
+      period: "Jun 2025 — Aug 2025",
+      detail:
+        "Contributed features, bug fixes, and documentation improvements across collaborative open-source projects while participating in review-driven development workflows.",
+    },
+  ],
 
   achievements: [
     {
